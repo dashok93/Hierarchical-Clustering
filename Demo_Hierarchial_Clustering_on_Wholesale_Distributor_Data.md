@@ -1,6 +1,3 @@
-# Hierarchical-Clustering
-ML &amp; AI - Unsupervised Learning Clustering - Algorithm
-
 ### Hierarchical Clustering
 
 This method comes into practice mainly because of the fact that in case of K Means clustering we need to pre-decide the number of clusters (K centroids) which we need for the data & even to calculate WCSS, we need to iterate which is not compute friendly. 
@@ -102,7 +99,19 @@ df.head()
 
 
 <div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
 
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -190,7 +199,19 @@ df.describe()
 
 
 <div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
 
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -353,7 +374,19 @@ scaled_df.head()
 
 
 <div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
 
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
